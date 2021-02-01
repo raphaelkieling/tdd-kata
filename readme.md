@@ -1,4 +1,8 @@
-# KATA
+<div style="display:flex; flex-direction: column; justify-content:center; align-items: center;">
+    <img src="./kata.png" height="150px">
+    <h1>KATA</h1>
+</div>
+
 
 The wikipedia:
 
